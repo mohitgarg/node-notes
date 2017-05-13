@@ -1,0 +1,17 @@
+{
+  "name": "node-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohit Garg",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^5.0.1",
+    "eslint-plugin-react": "^7.0.0"
+  },
+  "dependencies": {
+    "yargs": "4.7.1"
+  }
+}
